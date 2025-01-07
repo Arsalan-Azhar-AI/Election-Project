@@ -1,0 +1,67 @@
+.img1{
+    position:absolute;
+    left:10% ;
+}
+.img2{
+    position:absolute;
+    right:10% ;
+}
+.can1{
+    position:absolute;
+    left: 15%;
+
+}
+.can2{
+    position:absolute;
+    right:15% ;
+}
+.btn1{
+    position:absolute;
+    left:20% ;
+    top:60%;
+}
+.btn2{
+    position:absolute;
+    right:20% ;
+    top:60%;
+}
+.ps{
+    text-align:center;
+}
+.vps{
+    left: 35%;
+    position:absolute;
+    top: 70%;
+    
+}
+.img3{
+    position:absolute;
+    left:10% ;
+    top: 85%;
+}
+.img4{
+    position:absolute;
+    right:10% ;
+    top: 85%;
+}
+.btn3{
+    position:absolute;
+    left:20% ;
+    top:125%;
+}
+.btn4{
+    position:absolute;
+    right:20% ;
+    top:125%;
+}
+.can3{
+    position:absolute;
+    left: 15%;
+    top: 76%;
+
+}
+.can4{
+    position:absolute;
+    right:15% ;
+    top: 76%;
+}
